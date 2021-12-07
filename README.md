@@ -27,3 +27,12 @@ Actualmente la cifra a aumentado a 5.1 millones de mexicanos sordos, los cuales 
 - Alcance:
 
 El proyecto pretende llegar a establecimientos comerciales, oficinas, empresas o lugares que cuenten con recepción de clientes en donde la interfaz pueda ayudar de manera significativa a la comunicación de estas personas, incluyendo el objetivo 10 del Programa de las Naciones Unidas para el Desarrollo, el cual consiste en la reduccion de las desigualdades y de forma secundaria al objetivo 8 incrementando el empleo y crecimiento economico.
+
+- Requerimientos:
+
+      - Visual Studion Code
+      - Lenguajes de programacion: C/C++, Python, Java, Arduino
+      - ESP32CAM
+      - Rasperry Pi 4
+      - Computadora
+      - Sensor Ultrasonico
