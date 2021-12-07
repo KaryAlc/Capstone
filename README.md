@@ -1,4 +1,4 @@
-Traductor de lengua de señas a voz con reconocimiento de gestos
+Traductor de lenguaje de señas a voz con reconocimiento de gestos
 
       - Jorge Infante Fragoso
       
